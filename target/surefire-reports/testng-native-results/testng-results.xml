@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="229" started-at="2020-06-10T01:07:58 IST" finished-at="2020-06-10T01:07:58 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="229" started-at="2020-06-10T01:07:58 IST" finished-at="2020-06-10T01:07:58 IST">
+      <class name="Maventutor.Maventutorial.Selenium2Test">
+        <test-method status="PASS" signature="browserautomation()[pri:0, instance:Maventutor.Maventutorial.Selenium2Test@3e6fa38a]" name="browserautomation" duration-ms="1" started-at="2020-06-10T01:07:58 IST" finished-at="2020-06-10T01:07:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserautomation -->
+        <test-method status="PASS" signature="uielements()[pri:0, instance:Maventutor.Maventutorial.Selenium2Test@3e6fa38a]" name="uielements" duration-ms="3" started-at="2020-06-10T01:07:58 IST" finished-at="2020-06-10T01:07:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uielements -->
+      </class> <!-- Maventutor.Maventutorial.Selenium2Test -->
+      <class name="Maventutor.Maventutorial.RestapiTest">
+        <test-method status="PASS" signature="dellog()[pri:0, instance:Maventutor.Maventutorial.RestapiTest@47c62251]" name="dellog" duration-ms="15" started-at="2020-06-10T01:07:58 IST" finished-at="2020-06-10T01:07:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dellog -->
+        <test-method status="PASS" signature="postjira()[pri:0, instance:Maventutor.Maventutorial.RestapiTest@47c62251]" name="postjira" duration-ms="0" started-at="2020-06-10T01:07:58 IST" finished-at="2020-06-10T01:07:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postjira -->
+      </class> <!-- Maventutor.Maventutorial.RestapiTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="168" started-at="2020-06-08T23:03:30 IST" finished-at="2020-06-08T23:03:30 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="168" started-at="2020-06-08T23:03:30 IST" finished-at="2020-06-08T23:03:30 IST">
+      <class name="Maventutor.Maventutorial.RestapiTest">
+        <test-method status="PASS" signature="dellog()[pri:0, instance:Maventutor.Maventutorial.RestapiTest@309e345f]" name="dellog" duration-ms="26" started-at="2020-06-08T23:03:30 IST" finished-at="2020-06-08T23:03:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dellog -->
+        <test-method status="PASS" signature="postjira()[pri:0, instance:Maventutor.Maventutorial.RestapiTest@309e345f]" name="postjira" duration-ms="6" started-at="2020-06-08T23:03:30 IST" finished-at="2020-06-08T23:03:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postjira -->
+      </class> <!-- Maventutor.Maventutorial.RestapiTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
