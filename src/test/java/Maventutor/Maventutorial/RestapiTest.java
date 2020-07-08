@@ -9,6 +9,12 @@ public class RestapiTest {
 		System.out.println("post jira invoked");
 		System.out.println("post jira 2 invoked ");
 		System.out.println("post jirs 3 invoked");
+		//
+		//
+		System.out.println("post jirs 4 invoked");
+		System.out.println("post jirs 5 invoked");
+		System.out.println("post jirs 6 invoked");
+		
 	}
 	@Test
 	public void dellog()
