@@ -7,7 +7,8 @@ public class RestapiTest {
 	public void postjira()
 	{
 		System.out.println("post jira invoked");
-		
+		System.out.println("post jira 2 invoked ");
+		System.out.println("post jirs 3 invoked");
 	}
 	@Test
 	public void dellog()
