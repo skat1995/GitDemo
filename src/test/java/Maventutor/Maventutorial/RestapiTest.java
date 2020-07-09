@@ -28,4 +28,10 @@ public class RestapiTest {
 		System.out.println("dellog2 invoked");
 		
 	}
+	@Test
+	public void dellog3()
+	{
+		System.out.println("dellog3 invoked");
+		
+	}
 }
