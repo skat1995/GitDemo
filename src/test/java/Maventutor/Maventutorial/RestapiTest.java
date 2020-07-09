@@ -22,5 +22,10 @@ public class RestapiTest {
 		System.out.println("dellog invoked");
 		
 	}
-
+	@Test
+	public void dellog2()
+	{
+		System.out.println("dellog2 invoked");
+		
+	}
 }

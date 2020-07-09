@@ -8,11 +8,23 @@ public class Selenium2Test {
 	{
 		System.out.println("browser automation");
 		System.out.println("selenium automation");
+		System.out.println("website automation");
+		
+	}
+	@Test
+	public void browserautomation22()
+	{
+		System.out.println("browser automation");
+		System.out.println("selenium automation");
+		System.out.println("website automation");
+		
 	}
 	@Test
 	public void uielements()
 	{
 		System.out.println("ui elements test");
+		System.out.println("ui elements test 2");
+		System.out.println("ui elements test3");
 	}
 	
 
